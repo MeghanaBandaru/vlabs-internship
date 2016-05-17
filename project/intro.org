@@ -23,9 +23,23 @@
   
   -[[/home/meghana/Downloads/IMG_20160517_092640205.jpg][Image]]
    
-* data models
+
+* Data models
    we discussed about the data model for the user application.we discussed 
    about the notations to be used and also discussed some abstract entity types.
    used regular expressions and cardinality constraints.Learnt about system
    state and type structures
-  
+
+
+* Table       
+ 
+|-----------------------------+-------------------+---------------+----------------+---------|
+| operation                   | credentials       | Referential   | Effect and/or  | Remarks |
+| signature                   |                   | integrity     | output         |         |
+|-----------------------------+-------------------+---------------+----------------+---------|
+| add user(U:user, s:session) | s.user.role=admin | U-user set    | failed/success |         |
+|                             |                   | S-session set |                |         |
+|-----------------------------+-------------------+---------------+----------------+---------|
+|                             |                   |               |                |         |
+|-----------------------------+-------------------+---------------+----------------+---------|
+|                             |                   |               |                |         |
