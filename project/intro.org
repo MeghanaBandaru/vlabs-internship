@@ -1,0 +1,13 @@
+#+TITLE: Building a Web application: Ground up to the cloud
+#+AUTHOR: Meghana Bandaru
+#+DATE: [2016-05-17 Tue]
+
+* OVERVIEW
+   
+    
+* INTRODUCTION
+** web application
+      A web application has many interfaces. It has server interface,
+      client interface and a database. A user makes a request and the
+      browser generates the URL and is sent to the web server. 
+       
