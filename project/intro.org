@@ -31,15 +31,46 @@
    state and type structures
 
 
+* Requirments
+
+* Entities
+   + User
+   + Email
+   + Name
+   + Role
+   + session
+
+* Relations
 * Table       
  
-|-----------------------------+-------------------+---------------+----------------+---------|
-| operation                   | credentials       | Referential   | Effect and/or  | Remarks |
-| signature                   |                   | integrity     | output         |         |
-|-----------------------------+-------------------+---------------+----------------+---------|
-| add user(U:user, s:session) | s.user.role=admin | U-user set    | failed/success |         |
-|                             |                   | S-session set |                |         |
-|-----------------------------+-------------------+---------------+----------------+---------|
-|                             |                   |               |                |         |
-|-----------------------------+-------------------+---------------+----------------+---------|
-|                             |                   |               |                |         |
+|----------------------------+--------------+--------------+----------------+-----------------|
+| operation                  | credentials  | Referential  | Effect and/or  | Remarks         |
+| signature                  |              | integrity    | output         |                 |
+|----------------------------+--------------+--------------+----------------+-----------------|
+| addUser(u:User, s:Session) | s.role=admin | u-user set   | failed/success | adds a new user |
+|                            |              |              |                |                 |
+|----------------------------+--------------+--------------+----------------+-----------------|
+| delUser(u:User, s:session) | s.role=admin | u:user set   | failed/success | deletes a       |
+|                            |              |              |                | user            |
+|----------------------------+--------------+--------------+----------------+-----------------|
+| setName(u:User,n:Name,     | s.role=admin | u:user set   |                | sets a name     |
+| s:session)                 |              |              |                | for a user      |
+|----------------------------+--------------+--------------+----------------+-----------------|
+| ListUsers(u:User,          | s.role=admin | u:user set   |                | Lists all the   |
+| s:session)                 |              |              |                | users           |
+|----------------------------+--------------+--------------+----------------+-----------------|
+| sortListUsers(U:User,      | s.role=admin | u:user set   |                | Lists all the   |
+| s:session)                 |              |              |                | users in sorted |
+|                            |              |              |                | way             |
+|----------------------------+--------------+--------------+----------------+-----------------|
+| getrole(u:User,s:session)  | s.user=      | s:sessionSet | admin/user     | shows whether a |
+|                            | admin/user   |              |                | user is Admin   |
+|                            |              |              |                | or User         |
+|----------------------------+--------------+--------------+----------------+-----------------|
+| setDetails(U:user,s:       | s.user=admin | s:sessionSet |                | setup details   |
+| session)                   | OR user      |              |                | of user         |
+|----------------------------+--------------+--------------+----------------+-----------------|
+| getDetails(u:user,         | s.user=admin | s:sessionSet |                | shows details   |
+| s:session)                 | or user      |              |                | of users        |
+|----------------------------+--------------+--------------+----------------+-----------------|
+                                                                                              
