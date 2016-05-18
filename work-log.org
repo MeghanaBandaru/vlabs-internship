@@ -17,8 +17,14 @@
      + entity relationship notation
      + learnt about type structure
      + system state 
-     + operations 
-
+     + operations
+ 
+** [2016-05-16 Wed]
+    + Discussed about Object Oriented Programming.
+    + Conflicts arising with data
+    + Got familier with Constructors, getters, setters and invarients 
+    We were assigned with an exercise to implement a user directory
+    application.  
 ** Weekly  Summary
    + What are the insights gained?
    + What is my footprint in the realization of the project?
