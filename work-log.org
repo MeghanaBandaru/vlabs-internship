@@ -19,12 +19,16 @@
      + system state 
      + operations
  
-** [2016-05-16 Wed]
+** [2016-05-18 Wed]
     + Discussed about Object Oriented Programming.
     + Conflicts arising with data
     + Got familier with Constructors, getters, setters and invarients 
     We were assigned with an exercise to implement a user directory
-    application.  
+    application.The implementation is done in python. We were assigned to a
+    group and had to work together as a team.
+** [2016-05-19 Thu] 
+    + Today we continued implementing the user directory application
+    + worked on python 
 ** Weekly  Summary
    + What are the insights gained?
    + What is my footprint in the realization of the project?
