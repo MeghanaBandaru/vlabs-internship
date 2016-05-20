@@ -1,13 +1,9 @@
 #+title: Daily work log for Meghana
 
-* Month of May
 ** [2016-05-16 Mon]
-   + What is the task I was assigned today?
-       + configured git
-       + learnt to create repository	 
-       + configured emacs 
-   
-      
+     + configured git
+     + learnt to create repository	 
+     + configured emacs 
 
 ** [2016-05-17 Tue]
      + configured some more of emacs like exporting
@@ -19,12 +15,21 @@
      + system state 
      + operations
  
-** [2016-05-16 Wed]
-    + Discussed about Object Oriented Programming.
-    + Conflicts arising with data
-    + Got familier with Constructors, getters, setters and invarients 
-    We were assigned with an exercise to implement a user directory
-    application.  
+** [2016-05-18 Wed]
+     + Discussed about Object Oriented Programming.
+     + Conflicts arising with data
+     + Got familier with Constructors, getters, setters and invarients 
+     We were assigned with an exercise to implement a user directory
+     application.The implementation is done in python. We were assigned to a
+     group and had to work together as a team.
+** [2016-05-19 Thu] 
+     + Today we continued implementing the user directory application
+     + worked on python 
+** [2016-05-20 Fri]
+     + We discussed about some problems faced in the code while implementing
+       the web application.
+     + Learnt about ORM and its benefits.
+     + Continued working on the user directory application.
 ** Weekly  Summary
    + What are the insights gained?
    + What is my footprint in the realization of the project?
