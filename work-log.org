@@ -30,9 +30,20 @@
      + We discussed about some problems faced in the code while implementing
        the web application.
      + Learnt about ORM and its benefits.
-     + Continued working on the user directory application.   
-** Weekly  Summary
-   + What are the insights gained?
-   + What is my footprint in the realization of the project?
+     + Continued working on the user directory application.
+**** Weekly  Summary
+     + What are the insights gained?
+       + Learnt to use git and emacs.
+       + learnt about data model, object model and ORM
+       + started working in groups to implement user directory application and
+         in the process learnt many new concepts
+    
+     + What is my footprint in the realization of the project?
+       + Understood the basics of developing a web application 
+** [2016-05-23 Mon]
+     + We discussed some more concepts about Object relational model.
+     + Tried to implement ORM in our user directory application.
+     
+
 * Month of June
 * Month of July
