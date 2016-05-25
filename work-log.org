@@ -31,7 +31,7 @@
        the web application.
      + Learnt about ORM and its benefits.
      + Continued working on the user directory application.
-**** Weekly  Summary
+** Weekly  Summary
      + What are the insights gained?
        + Learnt to use git and emacs.
        + learnt about data model, object model and ORM
