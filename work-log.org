@@ -48,7 +48,9 @@
 ** [2016-05-25 Wed]
      + Implemented ORM
      + Learnt about REST API
-     + Tried to implemrnt REST API in the usr directory application  
+     + Tried to implementing REST API in the user directory application  
+** [2016-05-26 Thu]
+     + Continued implementing REST API in the user directory application
 ** Weekly  Summary
    + What are the insights gained?
    + What is my footprint in the realization of the project?
