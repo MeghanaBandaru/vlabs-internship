@@ -66,5 +66,9 @@
        got familiar with the concepts of Front_End
 ** [2016-05-30 Mon]
      + Continued implementing Front-End of the application  
+** [2016-05-31 Tue]
+     + Continued implementing Front_End 
+     + Today we mostly worked on add-user part
+     + Fixed some errors in this part.  
 * Month of June
 * Month of July
