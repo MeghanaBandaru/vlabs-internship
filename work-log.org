@@ -71,4 +71,9 @@
      + Today we mostly worked on add-user part
      + Fixed some errors in this part.  
 * Month of June
+** [2016-06-01 Wed]
+     + Worked mostly on implementing add-user, edit-user and delete-user of the
+       application.
+     + Got rid of many errors meanwhile.
+     + Understood new concepts of Angular Js.  
 * Month of July
