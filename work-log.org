@@ -75,5 +75,11 @@
      + Worked mostly on implementing add-user, edit-user and delete-user of the
        application.
      + Got rid of many errors meanwhile.
-     + Understood new concepts of Angular Js.  
+     + Understood new concepts of Angular Js.
+** [2016-06-02 Thu]  
+     + Finished Front-End part of the application
+     + Deployed the application both by manually and Auto Deployment Services(ADS)
+     + Understood the concepts of deployment
+     + Also worked on documentation of the application
+
 * Month of July
