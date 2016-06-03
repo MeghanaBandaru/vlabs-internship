@@ -76,10 +76,17 @@
        application.
      + Got rid of many errors meanwhile.
      + Understood new concepts of Angular Js.
-** [2016-06-02 Thu]  
+** [2016-06-02 Thu]
      + Finished Front-End part of the application
      + Deployed the application both by manually and Auto Deployment Services(ADS)
      + Understood the concepts of deployment
      + Also worked on documentation of the application
 
+** [2016-06-03 Fri]
+     + We completed the web application and gave a presentation on it using the
+       documentation we made.
+     + I was assigned with my project and discussed about it with my mentors.
+     + Revised and learnt some basic Linux commands 
+     + Also learnt about redirection in Linux 
+           
 * Month of July
