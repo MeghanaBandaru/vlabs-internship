@@ -89,4 +89,26 @@
      + Revised and learnt some basic Linux commands 
      + Also learnt about redirection in Linux 
            
+** [2016-06-06 Mon]
+     + Learnt basic networking concepts like IP Address, MAC address, Hub &
+       switch, OSI model,and also about public IP and private IP addresses.
+     + Also learnt about basic networking in Linux.
+        - ifconfig
+        - route
+        - ssh
+        - scp
+        - rsync  
+
+** [2016-06-07 Tue]
+     + Learnt about the characteristics of Virtual machine and Container
+     + Installed OpenVZ and configured it.
+     + Learnt to create containers and some basic operations on it
+     + We got an assignment where we have to
+       - Create containers
+       - Set ip and proxy
+       - Create user with password
+       - enable remote login in both the container
+       - use scp to copy files from each other.   
+
+
 * Month of July
