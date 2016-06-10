@@ -110,5 +110,22 @@
        - enable remote login in both the container
        - use scp to copy files from each other.   
 
+** [2016-06-08 Wed]
+     + Understood the functionality of Apache server,Public & Private  DNS server, Reverse
+       proxy, STPI router,Ansible and Nagios  
+     + Learnt about the VLEAD network infrastructure
+     + Learnt about AWS infrastructure which I found to be similar to VLEAD
+       infrastructure with some additional features
+     + Understood how a Virtual Machine(VM) is created in AWS cloud
 
+** [2016-06-09 Thu]
+     + Started with Docker introduction and installation
+     + Learnt how to create containers and use them
+     + Learnt some basic commands in Docker like
+        - Creating container
+        - Display all active and non-active containers
+        - logs,start,stop,restart,inspect etc...
+        - Creating an image
+** [2016-06-10 Fri]
+     + 
 * Month of July
