@@ -127,5 +127,11 @@
         - logs,start,stop,restart,inspect etc...
         - Creating an image
 ** [2016-06-10 Fri]
-     + 
+     + Continued exploring docker
+     + Learnt many new commands or operations in docker
+     + Simultaneously documented it
+** [2016-06-13 Mon]
+     + Learnt few more operations in docker
+     + Fixed some errors in the containers
+     + Explored more of Docker
 * Month of July
