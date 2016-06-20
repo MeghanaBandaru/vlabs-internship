@@ -144,4 +144,15 @@
      + Tried few more commands in docker 
      + Prepared Documentation on Docker
 
+** [2016-06-16 Thu]
+** [2016-06-17 Fri]
+     + Gave a presentation on Docker
+     + Jotted down some points required to understand
+     + Learnt how to auto-restart containers on reboot 
+** Weekly Summary
+** [2016-06-20 Mon]
+     + Understood how to create backup of Docker images
+     + Command line history for container
+     + Understood how to deploy Docker containers on AWS manually
+     + Simultaneously documented everything
 * Month of July
