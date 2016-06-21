@@ -151,8 +151,13 @@
      + Learnt how to auto-restart containers on reboot 
 ** Weekly Summary
 ** [2016-06-20 Mon]
-     + Understood how to create backup of Docker images
+     + Understood how to create backup of Docker images and containers
      + Command line history for container
      + Understood how to deploy Docker containers on AWS manually
      + Simultaneously documented everything
+** [2016-06-21 Tue]
+     + Explored about Docker Data volumes
+     + Created volumes and deleted volumes
+     + Explored about ENTRYPOINT instruction in Dockerfile
+     + Documentation of everything
 * Month of July
