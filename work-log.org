@@ -160,4 +160,9 @@
      + Created volumes and deleted volumes
      + Explored about ENTRYPOINT instruction in Dockerfile
      + Documentation of everything
+** [2016-06-22 Wed]
+     + Tried to resize memory and CPU of a docker container
+     + Eventually found out =docker run= command with -c and -m flag which can
+       be used for CPU shares and memory limits
+     + Looked into the drawbacks of Docker 
 * Month of July
