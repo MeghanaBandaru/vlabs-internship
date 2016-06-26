@@ -1,5 +1,6 @@
 #+title: Daily work log for Meghana
 
+* Month of May
 ** [2016-05-16 Mon]
      + configured git
      + learnt to create repository	 
@@ -88,7 +89,12 @@
      + I was assigned with my project and discussed about it with my mentors.
      + Revised and learnt some basic Linux commands 
      + Also learnt about redirection in Linux 
-           
+** Weekly Summary
+     + This week we mostly worked on Front-end of the web-aplication
+     + Learnt few concepts on Angular JS 
+     + Deployed the application in a container in base 4
+     + Got brief introduction of my project
+     + Learnt some Linux Commands
 ** [2016-06-06 Mon]
      + Learnt basic networking concepts like IP Address, MAC address, Hub &
        switch, OSI model,and also about public IP and private IP addresses.
@@ -130,6 +136,13 @@
      + Continued exploring docker
      + Learnt many new commands or operations in docker
      + Simultaneously documented it
+** Weekly Summary
+     + Learnt basic networking concepts
+     + Understood Virtualization concepts both by virtual machines and
+       containers
+     + Installed OpenVZ and configured it
+     + Learnt abot VLEAD and AWS network infrastructure.
+     + Started exploring Docker and learnt few command in it.
 ** [2016-06-13 Mon]
      + Learnt few more operations in docker
      + Fixed some errors in the containers
@@ -138,18 +151,33 @@
      + Explored few more operations in docker
      + Tried to understand Docker Hub
      + Applied basic commands and played around with docker images and containers
-
 ** [2016-06-15 Wed]
      + Hosted a simple html page in docker container using apache 
      + Tried few more commands in docker 
      + Prepared Documentation on Docker
-
 ** [2016-06-16 Thu]
+     + Prepared for the presentation to be given tomorrow
+     + Prepared the documentation
+     + Learnt about fork bomb and applied it in a container due to which the
+       system came down and had to reboot it.
+     + Learnt more about Docker files
 ** [2016-06-17 Fri]
      + Gave a presentation on Docker
-     + Jotted down some points required to understand
-     + Learnt how to auto-restart containers on reboot 
+     + Jotted down some points required to be explored like:
+       + Auto-restart containers
+       + =ENTRYPOINT= instruction
+       + Networking in docker containers
+       + Amazon Docker Pricing and resource allocation
+       + Docker backup
+       + How files of a docker container can be accessed from base machine.
+       + Command line history for container.
+     + Learnt how to auto-restart containers on reboot of host system 
 ** Weekly Summary
+     + Explore Docker 
+     + Played around with Docker containers and docker images
+     + Documented everything I learnt
+     + Gave a presentation explaining what can we do with docker and jotted down
+       few more concepts that are to be explored yet.
 ** [2016-06-20 Mon]
      + Understood how to create backup of Docker images and containers
      + Command line history for container
@@ -162,7 +190,36 @@
      + Documentation of everything
 ** [2016-06-22 Wed]
      + Tried to resize memory and CPU of a docker container
-     + Eventually found out =docker run= command with -c and -m flag which can
+     + Eventually found about =docker run= command with -c and -m flag which can
        be used for CPU shares and memory limits
-     + Looked into the drawbacks of Docker 
-* Month of July
+     + Looked into the drawbacks of Docker
+** [2016-06-23 Thu] 
+     + Analyzed the load of Docker containers
+     + We were able to run 197 Docker containers simultaneously on a machine of
+       RAM 8 GB
+     + Played around with containers trying to resize them and analyze their
+       memory usage
+     + We found that every container is allocated 37 GB disk space out of
+       which it used 27 GB and so we were not able to copy a file of more than
+       9 GB into the container   
+** [2016-06-24 Fri]
+     + Implemented Data volumes in Docker Containers
+     + Tried to increase the Disk space of Docker containers
+     + Found some ambiguities in disk space allocation for Docker containers
+** Weekly Summary 
+     + Looked into the concepts suggested i.e about:
+       + Auto restart containers
+       + =ENTRYPOINT= instruction
+       + Docker backup
+       + How files of a docker container can be accessed from base machine.
+       + Command line history for container.
+     + Understood Data volumes
+     + Tried to resize RAM and disk space of Docker containers
+     + Analyzed load if Docker containers
+** [2016-06-27 Mon]
+** [2016-06-28 Tue]
+** [2016-06-29 Wed]
+** [2016-06-30 Thu]
+** [2016-07-01 Fri]
+** Weekly Summary
+
