@@ -215,11 +215,34 @@
        + Command line history for container.
      + Understood Data volumes
      + Tried to resize RAM and disk space of Docker containers
-     + Analyzed load if Docker containers
+     + Analyzed load of Docker containers 
 ** [2016-06-27 Mon]
+     + We tried to analyze the performance of Docker containers by generating
+       load on 197 containers in the remote machine.
+     + For this we used curl command and features of crontab
+     + With the output data we depicted graphs
 ** [2016-06-28 Tue]
+     + Today we continued with performance testing by generating load on all
+       197 containers with siege command
+     + We used sar command to get the system status
+     + With this output we were able to draw graphs
+     + Documented every thing 
 ** [2016-06-29 Wed]
+     + Limited one of the container's RAM and fired fork bomb for testing
+     + We took the results and documented every thing
 ** [2016-06-30 Thu]
+     + Solved some issues in AWS-Docker on git.
+     + Concentrated mostly on the document.
+     + Edited the whole document and updated it.
+* Month of July
 ** [2016-07-01 Fri]
+     + Gave a final presentation on Docker.
+     + Received the certificate.
+     + Finished the internship.
+     + Gave feedback.
 ** Weekly Summary
-
+      + This week we mostly did performance testing on Docker containers.
+      + Depicted graphs from the results.
+      + Edited and updated the document on Docker.
+      + This was my last week of internship.
+      + Finished my project and received the certificate
